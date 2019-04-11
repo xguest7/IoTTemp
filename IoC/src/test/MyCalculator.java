@@ -3,7 +3,8 @@ package test;
 import operator.Calculator;
 
 public class MyCalculator {
-	/*�ּ� �׽�Ʈ*/
+	/*�ּ� �׽�Ʈ*/
+	/* 배가 고프다*/
 	public int fNum, sNum;
 	public Calculator calculator;
 	
