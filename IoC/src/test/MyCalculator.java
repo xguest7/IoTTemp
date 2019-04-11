@@ -3,6 +3,7 @@ package test;
 import operator.Calculator;
 
 public class MyCalculator {
+	/*주석 테스트*/
 	public int fNum, sNum;
 	public Calculator calculator;
 	
