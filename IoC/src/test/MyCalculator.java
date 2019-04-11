@@ -5,6 +5,7 @@ import operator.Calculator;
 public class MyCalculator {
 	/*글자 수정*/
 	/* 배가 고프다*/
+	/* 주석 하나더 추가 */
 	public int fNum, sNum;
 	public Calculator calculator;
 	
